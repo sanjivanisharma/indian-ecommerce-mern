@@ -1,3 +1,15 @@
 import Navbar from "./Navbar/Navbar"
+import Breadcrum from "./Breadcrums/Breadcrum"
+import CartItems from "./CartItems/CartItems"
+import DescriptionBox from "./DescriptionBox/DescriptionBox"
+import Footer from "./Footer/Footer"
+import Hero from "./Hero/Hero"
+import Item from "./Item/Item"
+import NewCollections from "./NewCollections/NewCollections"
+import NewsLetter from "./NewsLetter/NewsLetter"
+import Offers from "./Offers/Offers"
+import Popular from "./Popular/Popular"
+import ProductDisplay from "./ProductDisplay/ProductDisplay"
+import RelatedProducts from "./RelatedProducts/RelatedProducts"
 
-export { Navbar }
+export { Navbar, Breadcrum, CartItems, DescriptionBox, Footer, Hero, Item, NewCollections, NewsLetter, Offers, Popular, ProductDisplay, RelatedProducts }
